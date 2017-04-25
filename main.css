@@ -5,12 +5,15 @@ justify-content: center;
 }
 
 #splash {
+display: flex;
+align-items: center;
+justify-content: center;
 padding: 40px;
 position: relative;
 background: #FFF;
 margin: 20px 0 0 0;
 height: 842px;
-width: 600px;
+width: 595px;
 box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.25);
 }
 
@@ -18,7 +21,7 @@ box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.25);
 display: flex;
 align-items: center;
 justify-content: center;
-width: 820px;
+width: 595px;
 margin-left: auto ;
 margin-right: auto ;
 }
