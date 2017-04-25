@@ -1,7 +1,10 @@
-#splash {
+body {
 display: flex;
 align-items: center;
 justify-content: center;
+}
+
+#splash {
 padding: 40px;
 position: relative;
 background: #FFF;
@@ -12,6 +15,9 @@ box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.25);
 }
 
 .post {
+display: flex;
+align-items: center;
+justify-content: center;
 width: 820px;
 margin-left: auto ;
 margin-right: auto ;
